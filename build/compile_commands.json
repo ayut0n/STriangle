@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/github_projects/fractals/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles\\STriangle.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\STriangle.dir\\main.cpp.obj -c D:\\github_projects\\fractals\\main.cpp",
+  "file": "D:/github_projects/fractals/main.cpp",
+  "output": "CMakeFiles/STriangle.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/github_projects/fractals/build/_deps/discord_rpc-build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DDISCORD_WINDOWS @CMakeFiles\\discord-rpc.dir\\includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\discord-rpc.dir\\discord_rpc.cpp.obj -c D:\\github_projects\\fractals\\build\\_deps\\discord_rpc-src\\src\\discord_rpc.cpp",
+  "file": "D:/github_projects/fractals/build/_deps/discord_rpc-src/src/discord_rpc.cpp",
+  "output": "_deps/discord_rpc-build/src/CMakeFiles/discord-rpc.dir/discord_rpc.cpp.obj"
+},
+{
+  "directory": "D:/github_projects/fractals/build/_deps/discord_rpc-build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DDISCORD_WINDOWS @CMakeFiles\\discord-rpc.dir\\includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\discord-rpc.dir\\rpc_connection.cpp.obj -c D:\\github_projects\\fractals\\build\\_deps\\discord_rpc-src\\src\\rpc_connection.cpp",
+  "file": "D:/github_projects/fractals/build/_deps/discord_rpc-src/src/rpc_connection.cpp",
+  "output": "_deps/discord_rpc-build/src/CMakeFiles/discord-rpc.dir/rpc_connection.cpp.obj"
+},
+{
+  "directory": "D:/github_projects/fractals/build/_deps/discord_rpc-build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DDISCORD_WINDOWS @CMakeFiles\\discord-rpc.dir\\includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\discord-rpc.dir\\serialization.cpp.obj -c D:\\github_projects\\fractals\\build\\_deps\\discord_rpc-src\\src\\serialization.cpp",
+  "file": "D:/github_projects/fractals/build/_deps/discord_rpc-src/src/serialization.cpp",
+  "output": "_deps/discord_rpc-build/src/CMakeFiles/discord-rpc.dir/serialization.cpp.obj"
+},
+{
+  "directory": "D:/github_projects/fractals/build/_deps/discord_rpc-build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DDISCORD_WINDOWS @CMakeFiles\\discord-rpc.dir\\includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\discord-rpc.dir\\connection_win.cpp.obj -c D:\\github_projects\\fractals\\build\\_deps\\discord_rpc-src\\src\\connection_win.cpp",
+  "file": "D:/github_projects/fractals/build/_deps/discord_rpc-src/src/connection_win.cpp",
+  "output": "_deps/discord_rpc-build/src/CMakeFiles/discord-rpc.dir/connection_win.cpp.obj"
+},
+{
+  "directory": "D:/github_projects/fractals/build/_deps/discord_rpc-build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DDISCORD_WINDOWS @CMakeFiles\\discord-rpc.dir\\includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\discord-rpc.dir\\discord_register_win.cpp.obj -c D:\\github_projects\\fractals\\build\\_deps\\discord_rpc-src\\src\\discord_register_win.cpp",
+  "file": "D:/github_projects/fractals/build/_deps/discord_rpc-src/src/discord_register_win.cpp",
+  "output": "_deps/discord_rpc-build/src/CMakeFiles/discord-rpc.dir/discord_register_win.cpp.obj"
+}
+]
