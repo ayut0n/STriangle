@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/github_projects/fractals/build/_deps/discord_rpc-subbuild/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

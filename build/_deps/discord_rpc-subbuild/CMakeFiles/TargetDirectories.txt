@@ -1,3 +1,0 @@
-D:/github_projects/fractals/build/_deps/discord_rpc-subbuild/CMakeFiles/discord_rpc-populate.dir
-D:/github_projects/fractals/build/_deps/discord_rpc-subbuild/CMakeFiles/edit_cache.dir
-D:/github_projects/fractals/build/_deps/discord_rpc-subbuild/CMakeFiles/rebuild_cache.dir
