@@ -30,24 +30,6 @@
 2. Установите программу при помощи Inno Setup
 3. Запустите STriangle.exe
 
-### Самостоятельная сборка::
-
-Для самостоятельной сборки программы вам понадобится Visual Studio Code, а также расширение CMake Tools. Для компиляции программы установите MSYS2 MinGW. Для работы программы необходима библиотека SFML.
-
-1. Установите библиотеку SFML при помощи MSYS2 MinGW:
-   ```
-   pacman -S mingw-w64-x86_64-sfml
-   ```
-2. Скачайте исходный код программы в ZIP-архиве
-3. Распакуйте архив
-4. В терминале Visual Studio Code перейдите в место распаковки архива (папку для сборки)
-5. Сгенерируйте файлы сборки и скомпилируйте в режиме Release:
-```
-cmake -DCMAKE_BUILD_TYPE=Release ..
-cmake --build .
-```
-5. Готовый файл .exe появится в папке `build`
-
 ---
 
 <a id="english"></a>
@@ -73,21 +55,3 @@ An infinite fractal visualizer (the Sierpinski triangle) with a continuous immer
 1. Go to `https://striangle.netlify.app` and download STriangle_Setup.exe
 2. Install the program using Inno Setup
 3. Run STriangle.exe
-
-### Building from Source:
-
-To build the program from source, you’ll need Visual Studio Code and the CMake Tools extension. To compile the program, install MSYS2 MinGW. The SFML library is required for the program to run
-
-1. Install the SFML library using MSYS2 MinGW:
-```
-pacman -S mingw-w64-x86_64-sfml
-```
-2. Download the program's source code in a ZIP archive
-3. Extract the archive
-4. In the Visual Studio Code terminal, navigate to the directory where the archive was extracted (the build folder)
-5. Generate the build files and compile in Release mode:
-```
-cmake -DCMAKE_BUILD_TYPE=Release ..
-cmake --build .
-```
-5. The finished .exe file will appear in the `build` folder
